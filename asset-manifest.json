@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/narzk/launch-timer/static/css/main.1240f33f.css",
+    "main.js": "/narzk/launch-timer/static/js/main.13d2aac9.js",
+    "static/js/787.e6606232.chunk.js": "/narzk/launch-timer/static/js/787.e6606232.chunk.js",
+    "index.html": "/narzk/launch-timer/index.html",
+    "main.1240f33f.css.map": "/narzk/launch-timer/static/css/main.1240f33f.css.map",
+    "main.13d2aac9.js.map": "/narzk/launch-timer/static/js/main.13d2aac9.js.map",
+    "787.e6606232.chunk.js.map": "/narzk/launch-timer/static/js/787.e6606232.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1240f33f.css",
+    "static/js/main.13d2aac9.js"
+  ]
+}
